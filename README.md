@@ -19,7 +19,7 @@ What you should learn from this project:
 Our team chose to add %x ,%X, %b, %o, %u, %r, %R, and %p formatting. We relied on the library we have been building at Alx as well as new concepts gathered during this project.
 
 ## Supported Format Types
----
+
 TYPE - OUTPUT
 
 c - Single character
@@ -53,11 +53,11 @@ p - pointer address
 * ``_printf("This is a number: %d", 10)``` *prints integer value 150
 * ``_printf("%s", "Hello")``` *prints "Hello" a string value
 * ```_printf("%c" B)``` *prints a character B
-
 ---
+
 
 ## File Functions
----
+
 _printf.c Own Printf Function Tha Performs Formatted Output Conversion And Print Data.
 
 ### main.h
@@ -208,8 +208,8 @@ Function That Prints An Integer Begining With 0 And u.
 ### ev_print_func.c
 Function That Returns The Amount Of Indetifiers
 
----
 
+---
 ## Authors
 * **Goodness Ojonuba** - [https://github.com/29trix]
 * **Sodiq Akanmu** - [https://github.com/techiesodiq]
